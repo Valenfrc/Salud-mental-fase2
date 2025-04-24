@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#E694FF" # Un color lila/morado 
+backgroundColor="#F0F2F6" # Un fondo gris claro
+secondaryBackgroundColor="#FFFFFF" # Fondo blanco para la barra lateral
+textColor="#31333F" # Texto oscuro
+font="sans serif"
