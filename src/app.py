@@ -9,7 +9,7 @@ import os
 
 #CONFIGURACIÓN DE LA PÁGINA
 st.set_page_config(
-    page_title="Predicción Depresión",
+    page_title="Contigo Ai",
     page_icon="🧠",
     layout="wide", # LAYOUT ANCHO
     initial_sidebar_state="expanded",
