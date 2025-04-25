@@ -9,7 +9,7 @@ import os
 
 #CONFIGURACIÓN DE LA PÁGINA
 st.set_page_config(
-    page_title="Contigo Ai",
+    page_title="Contigo IA",
     page_icon="🧠",
     layout="wide", # LAYOUT ANCHO
     initial_sidebar_state="expanded",
@@ -56,7 +56,7 @@ employment_mapping = {'Unemployed': 0, 'Employed': 1}
 binary_mapping = {'No': 0, 'Sí': 1} 
 
 
-st.title("🧠 Predicción de Posibilidad de Depresión")
+st.title("🧠 Contigo IA")
 st.write("""
 Esta aplicación predice la probabilidad de que una persona pueda estar experimentando
 síntomas depresivos, basándose en factores de salud e historial.
